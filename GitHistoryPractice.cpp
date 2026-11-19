@@ -19,7 +19,10 @@ int Division(int number1, int number2)
 {
     return number1 / number2;
 }
-
+int mod(int number1, int number2)
+{
+    return number1 % number2;
+}
 
 int main()
 {
