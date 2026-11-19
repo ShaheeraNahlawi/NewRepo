@@ -11,6 +11,12 @@ int Subtract(int number1, int number2)
     return number1 - number2;
 }
 
+int Multiplication(int number1, int number2)
+{
+    return number1 * number2;
+}
+
+
 int main()
 {
     cout << "10 + 5 = " << Add(10, 5) << endl;
