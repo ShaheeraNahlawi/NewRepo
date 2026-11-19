@@ -21,6 +21,8 @@ int main()
 {
     cout << "10 + 5 = " << Add(10, 5) << endl;
     cout << "10 - 5 = " << Subtract(10, 5) << endl;
+    cout << "10 * 5 = " << Multiplication(10, 5) << endl;
+
 
     return 0;
 }
