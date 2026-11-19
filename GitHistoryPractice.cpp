@@ -15,6 +15,10 @@ int Multiplication(int number1, int number2)
 {
     return number1 * number2;
 }
+int Divide(int number1, int number2)
+{
+    return number1 * number2;
+}
 
 
 int main()
